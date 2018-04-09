@@ -1,5 +1,3 @@
-package cobacoba;
-
 import java.io.*;
 import java.util.ArrayList;
 
